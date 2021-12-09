@@ -1,3 +1,33 @@
 {
-    "editor.formatOnSave": false
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "vscode-icons",
+    "redhat.telemetry.enabled": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.minikube-path.windows": "C:\\Users\\Raiha\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
+        "vscode-kubernetes.helm-path.windows": "C:\\Users\\Raiha\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "window.zoomLevel": 2,
+    "cSpell.userWords": [
+        "isclass"
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "stash-push:command",
+        "switch:command",
+        "push:command"
+    ],
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true
 }
