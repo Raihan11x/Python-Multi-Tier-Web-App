@@ -87,18 +87,3 @@ a.article-title:hover {
 ul {
     list-style-type: none;
 }
-
-ul {
-    list-style-type: none;
-    padding: 0;
-    border: 2px solid #428bca;
-}
-
-ul li {
-    padding: 10px 18px;
-    border-bottom: 2px solid #428bca;
-}
-
-ul li:last-child {
-    border-bottom: none;
-}
